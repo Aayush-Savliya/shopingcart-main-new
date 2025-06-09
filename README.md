@@ -1,4 +1,4 @@
 
 Live Demo:--
 
-https://shopingfreely.netlify.app/
+https://asshoppingcart.netlify.app/
